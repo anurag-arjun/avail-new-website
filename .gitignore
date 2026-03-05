@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Wrangler
+.wrangler/
+wrangler.jsonc
+
+# Dev artifacts
+plan.md
