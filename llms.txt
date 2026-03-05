@@ -1,0 +1,247 @@
+# Avail Project - LLM.TXT
+
+> **Last Updated:** March 2026  
+> **Website:** https://availproject.org  
+> **Purpose:** This file provides a comprehensive overview of Avail Project for LLM agents and AI systems.
+
+---
+
+## Overview
+
+**Avail Project** creates a unified onchain economy by connecting users, apps, and liquidity across chains. The mission is to scale access to the onchain economy by providing secure, scalable infrastructure that connects applications to every major blockchain network from day one.
+
+**Tagline:** Scale Access to the Onchain Economy
+
+**Founded:** 2023
+
+---
+
+## Core Products
+
+### 1. Avail Nexus
+**Multi-Chain SDK for Cross-Chain Applications**
+
+Avail Nexus enables developers to build multi-chain apps by connecting users, assets, and liquidity across 15+ blockchains. It provides pre-built UI components, SDK, and API for integration.
+
+**Key Features:**
+- Multichain liquidity access
+- Unified balances - users can access apps with assets from any chain
+- Cross-chain swaps without bridge friction
+- Seamless user experience with "bridgeless flow"
+- Instant access to apps even if assets are on other blockchains
+- Pre-built UI components and SDK
+- API for easy integration
+
+**Use Cases:**
+- DEXs (Decentralized Exchanges)
+- DeFi protocols
+- Cross-chain trading platforms
+- Liquidity aggregation
+
+**Featured Integrations:**
+- Bean Exchange on Monad
+- KalqiX (powered by Avail Nexus and Avail DA)
+- QuickSwap
+- Clober
+- Atlantis DEX
+
+---
+
+### 2. Avail DA (Data Availability)
+**Blockchain Data Availability Layer with Cryptographic Verification**
+
+Avail DA unlocks limitless blockspace for the next generation of high-throughput chains, providing cryptographically verifiable data availability for rollups, validiums, and L2/L3 chains.
+
+**Key Features:**
+- Limitless blockspace
+- Cryptographically verifiable via KZG commitments
+- Horizontal scaling capabilities
+- High-throughput support
+- 250ms preconfirmations
+- 20s finality
+- DAS (Data Availability Sampling) light clients
+- Trustless interoperability
+- Secure rollup settlement across L2s and L3s
+
+**Supported Chain Stacks:**
+- Rollups
+- Validiums
+- L2/L3 chains
+
+**Application Categories:**
+- DeFi (Decentralized Finance)
+- Stablecoins
+- RWAs (Real World Assets)
+- Gaming
+- TradFi (Traditional Finance)
+
+**Technical Specifications:**
+- 70+ partners trust Avail DA
+- Inherits cryptographic proof of data availability
+- Enables secure rollup settlement
+- Supports trustless interoperability
+
+---
+
+## Ecosystem & Partners
+
+Avail has a growing ecosystem of **70+ partners** building with Avail DA and Nexus infrastructure.
+
+**Featured Partners:**
+- Monad
+- Lens
+- Sophon
+- Ternoa Network
+- Succinct (Bridges)
+- QuickSwap
+- Clober
+- Bean Exchange
+- Atlantis DEX
+- KalqiX
+
+**Partner Categories:**
+- Bridges
+- Chains
+- dApps
+- Infrastructure providers
+
+---
+
+## Customer Testimonials
+
+### QuickSwap
+> "Avail Nexus removes the biggest source of friction in our funnel. Users don't need to bounce around chains and bridges anymore. With Unified Balances, users can route liquidity to QuickSwap instantly and it just works."  
+> — **Alexios Atlas**, Head of BD
+
+### Clober
+> "The bridgeless flow feels like magic. Our users can go from zero to trading on Monad in seconds, and they love the experience. The team moves fast and ships quality, which is rare."  
+> — **Kevin**, Founder
+
+### Bean Exchange
+> "By integrating Nexus we're simplifying things for our users. They can easily trade on Bean using their funds from any chain. This really gives us an edge in the competitive DEX landscape."  
+> — **Aaronx**, Founder
+
+### Atlantis DEX
+> "Avail Nexus allows users to trade on Atlantis with whatever assets they have, wherever they hold them. We're not just another DEX anymore - we're a liquidity hub accessible from any chain."  
+> — **Thoth**, Leading
+
+### KalqiX
+> "With Avail Nexus and Avail DA, KalqiX takes a big leap toward unified liquidity and frictionless cross-chain trading. This is what the future of DeFi looks like."  
+> — **Prateek Singhania**, Co-Founder
+
+---
+
+## Company Information
+
+**Legal Name:** Avail Project  
+**Alternate Name:** Avail  
+**Founded:** 2023  
+**Slogan:** Scale Access to the Onchain Economy
+
+**Backed By:**
+- Founders Fund
+- Other leading investors
+
+**Areas of Expertise:**
+- Blockchain Infrastructure
+- Data Availability
+- Cross-chain Technology
+- Web3
+- DeFi
+
+---
+
+## Resources & Links
+
+### Official Channels
+- **Website:** https://availproject.org
+- **Documentation:** https://docs.availproject.org
+- **Blog:** https://blog.availproject.org
+
+### Social Media
+- **Twitter/X:** https://twitter.com/AvailProject
+- **LinkedIn:** https://www.linkedin.com/company/availproject/
+- **GitHub:** https://github.com/availproject
+- **Discord:** https://discord.com/invite/AvailProject
+- **Telegram:** https://t.me/AvailCommunity
+- **YouTube:** https://www.youtube.com/@Availproject
+
+### Contact
+- **Sales/Discovery Call:** https://calendly.com/d/cwfp-t3y-gt2/avail-discovery-call
+
+---
+
+## Website Structure
+
+The availproject.org website contains the following pages:
+
+1. **Home** (`/`) - Main landing page with overview of products
+2. **About Us** (`/aboutus`) - Company information and team
+3. **Nexus** (`/nexus`) - Product page for Avail Nexus
+4. **DA** (`/da`) - Product page for Avail DA
+5. **Ecosystem** (`/ecosystem`) - Partners and integrations
+6. **Whitepaper** (`/whitepaper`) - Technical documentation
+7. **MiCA Whitepaper** (`/mica-whitepaper`) - Regulatory compliance documentation
+8. **Brand** (`/brand`) - Brand assets and guidelines
+9. **Terms & Conditions** (`/termsandconditions`) - Legal terms
+
+---
+
+## Key Value Propositions
+
+### For Developers
+- Build on your blockchain of choice (app-specific, L1 or L2) without limiting reach
+- Access all users, tokens, and apps from every major blockchain network
+- Pre-built UI components and SDK for rapid integration
+- API access for custom implementations
+
+### For Users
+- No need to bridge assets between chains
+- Unified balances across multiple blockchains
+- Instant access to apps regardless of where assets are held
+- Seamless, frictionless cross-chain experience
+
+### For the Ecosystem
+- Unified liquidity across chains
+- Cryptographically verifiable data availability
+- Trustless interoperability
+- Horizontal scaling for high-throughput applications
+
+---
+
+## Technical Architecture
+
+### Avail DA Technical Highlights
+- **KZG Commitments:** Cryptographic proofs for data availability
+- **DAS Light Clients:** Enable verification without downloading full data
+- **Preconfirmations:** 250ms fast confirmation times
+- **Finality:** 20-second finality for transactions
+- **Horizontal Scaling:** Unlimited blockspace through scaling architecture
+
+### Avail Nexus Technical Highlights
+- **Unified Balances:** Aggregate liquidity from multiple chains
+- **Cross-Chain Swaps:** Native swapping without bridges
+- **SDK:** Developer toolkit for easy integration
+- **API:** RESTful API for programmatic access
+- **UI Components:** Pre-built React components
+
+---
+
+## Blog & Content
+
+Recent blog posts include:
+- "Supercharge Liquidity With Avail Nexus SDK" (August 2025)
+- "Cross Chain Swaps on Avail Nexus" (September 2025)
+- "Experience The Nexus Effect On Hyperliquid" (August 2025)
+
+---
+
+## Summary
+
+Avail Project is building the infrastructure for a unified onchain economy. Through Avail Nexus (cross-chain connectivity) and Avail DA (data availability), the project enables developers to build applications that work seamlessly across multiple blockchains, providing users with frictionless access to liquidity and applications regardless of which chain they hold assets on.
+
+With 70+ partners, backing from Founders Fund, and a focus on cryptographic verification and trustless interoperability, Avail is positioned as a key infrastructure provider for the next generation of blockchain applications.
+
+---
+
+*This LLM.TXT file was created to help AI agents and LLMs understand the Avail Project website content. For the most up-to-date information, visit https://availproject.org*
