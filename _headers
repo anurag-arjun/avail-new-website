@@ -1,0 +1,36 @@
+# Cloudflare Pages Headers
+# https://developers.cloudflare.com/pages/platform/headers/
+
+# HTML files - don't cache (or very briefly)
+*.html
+  Cache-Control: no-cache, no-store, must-revalidate
+
+# CSS and JS - cache long-term (hashed filenames)
+*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+# Images - cache long-term (hashed filenames)
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts - cache long-term (hashed filenames)
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Videos - cache long-term
+/videos/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Favicon and icons - cache long-term
+/favicon-*.png
+  Cache-Control: public, max-age=31536000, immutable
+
+/apple-touch-icon.png
+  Cache-Control: public, max-age=31536000, immutable
+
+# Manifest - cache briefly
+/manifest.json
+  Cache-Control: no-cache
