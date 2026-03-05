@@ -1,0 +1,10 @@
+# Clean URL redirects
+/nexus /nexus.html 200
+/nexus/deposits /nexus/deposits.html 200
+/da /da.html 200
+/ecosystem /ecosystem.html 200
+/aboutus /aboutus.html 200
+/whitepaper /whitepaper.html 200
+/mica-whitepaper /mica-whitepaper.html 200
+/brand /brand.html 200
+/termsandconditions /termsandconditions.html 200
